@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Renato.SoulIt\Documents\Projetos\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>02/26/2018 19:20:37</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>02/26/2018 19:20:37</publishTime>
+    </File>
+    <File Include="bin/Estacionator.dll">
+      <publishTime>03/02/2018 20:07:22</publishTime>
+    </File>
+    <File Include="bin/M2Mqtt.Net.dll">
+      <publishTime>12/06/2015 15:10:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 01:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/23/2012 14:23:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 19:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 19:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>02/26/2018 19:25:08</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>02/26/2018 19:25:11</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>02/26/2018 19:25:11</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>02/26/2018 19:25:12</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>02/26/2018 19:25:12</publishTime>
+    </File>
+    <File Include="css/estilo.css">
+      <publishTime>02/26/2018 19:28:37</publishTime>
+    </File>
+    <File Include="dist/jquery.jqplot.min.css">
+      <publishTime>02/26/2018 19:29:17</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/26/2018 19:20:22</publishTime>
+    </File>
+    <File Include="img/brickwall.jpg">
+      <publishTime>02/26/2018 19:28:07</publishTime>
+    </File>
+    <File Include="img/brickwall2.jpg">
+      <publishTime>02/26/2018 19:28:07</publishTime>
+    </File>
+    <File Include="img/carango.png">
+      <publishTime>02/26/2018 19:28:07</publishTime>
+    </File>
+    <File Include="img/carango2.png">
+      <publishTime>02/26/2018 19:28:07</publishTime>
+    </File>
+    <File Include="img/fundo-off.png">
+      <publishTime>02/26/2018 19:28:07</publishTime>
+    </File>
+    <File Include="img/fundo-on.png">
+      <publishTime>02/26/2018 19:28:07</publishTime>
+    </File>
+    <File Include="js/controle.js">
+      <publishTime>02/26/2018 19:57:36</publishTime>
+    </File>
+    <File Include="js/jqplot.canvasAxisLabelRenderer.min.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/jqplot.canvasTextRenderer.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/jqplot.canvasTextRenderer.min.js">
+      <publishTime>02/26/2018 19:25:33</publishTime>
+    </File>
+    <File Include="js/jqplot.dateAxisRenderer.min.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/jquery-1.11.2.min.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/jquery-3.3.1.min.js">
+      <publishTime>02/28/2018 17:18:42</publishTime>
+    </File>
+    <File Include="js/jquery.jqplot.min.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/jquery.sparkline.min.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/mqttws31.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="js/socket.io.min.js">
+      <publishTime>02/26/2018 19:25:34</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/27/2018 13:17:13</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>02/26/2018 19:20:38</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>02/26/2018 19:20:38</publishTime>
+    </File>
+    <File Include="Views/Estacionar/Index.cshtml">
+      <publishTime>03/02/2018 18:09:19</publishTime>
+    </File>
+    <File Include="Views/Estacionar/Visualizacao.cshtml">
+      <publishTime>03/02/2018 19:28:42</publishTime>
+    </File>
+    <File Include="Views/index.html">
+      <publishTime>02/26/2018 19:29:46</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/26/2018 19:20:22</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/02/2018 20:07:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
